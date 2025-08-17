@@ -27,16 +27,4 @@ Visualization:
 
 Distribution plots and categorical analyses performed.
 
-⚠️ Challenges and Solutions
-Matplotlib Installation Error:
 
-Resolved version conflicts via pip uninstall matplotlib and pip install --upgrade matplotlib.
-
-Alternative solution: Use virtual environments or version pinning.
-
-Missing Values: No missing values found in the dataset.
-
-📊 Key Findings
-Highest correlation with default risk: InterestRate, CreditScore, DTIRatio.
-
-The credit/income feature helped better understand borrower risk profiles.
